@@ -4,8 +4,8 @@ fun main() {
     println(getAge("4 years old"))
     println(getAge2("5 years old"))
     println(getAge3("6 years old"))
-    println(getAge4("7 years old"))
-    println(getAge5("8 years old"))
+    println(getAge4("57 years old"))
+    println(getAge5("888 years old"))
     println(getAge6("9 years old"))
 
 }
