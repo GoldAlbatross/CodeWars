@@ -3,6 +3,7 @@ package level_7kyu
 import kotlin.math.ceil
 
 fun main() {
+
     //removeRange()
     var x = "01234567"
     x = x.removeRange(1, 7)

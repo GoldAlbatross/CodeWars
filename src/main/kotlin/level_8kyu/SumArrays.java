@@ -8,6 +8,7 @@ public class SumArrays {
     }
 
     static double sum(double[] numbers) {
+
         var x = Arrays.stream(numbers).sum();
         System.out.println(x);
         return x;
