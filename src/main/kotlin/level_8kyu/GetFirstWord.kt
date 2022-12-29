@@ -1,12 +1,12 @@
 package level_8kyu
 
 fun main() {
-    println(getAge("4 years old"))
-    println(getAge2("5 years old"))
-    println(getAge3("6 years old"))
-    println(getAge4("57 years old"))
-    println(getAge5("888 years old"))
-    println(getAge6("9 years old"))
+    //println(getAge("4 years old"))
+    //println(getAge2("5 years old"))
+    //println(getAge3("6 2 old"))
+    //println(getAge4("57 years old"))
+    //println(getAge5("888 years old"))
+    println(getAge6("99*25"))
 
 }
 
@@ -26,6 +26,6 @@ fun getAge5(yearsOld: String): Int =
     yearsOld.takeWhile { it.isDigit() }.toInt()
 
 fun getAge6(yearsOld: String): String {
-    val x = yearsOld.split(" ")
-    return x[0]
+    val x = yearsOld.split("[*/-]")
+    return x[1]
 }
