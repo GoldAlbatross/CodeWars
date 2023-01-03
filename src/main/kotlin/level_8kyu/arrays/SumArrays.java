@@ -1,4 +1,4 @@
-package level_8kyu;
+package level_8kyu.arrays;
 
 import java.util.Arrays;
 
