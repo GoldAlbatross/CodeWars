@@ -2,11 +2,11 @@ package level_8kyu
 
 fun main() {
     //println(getAge("4 years old"))
-    //println(getAge2("5 years old"))
+    println(getAge2("55 years old"))
     //println(getAge3("6 2 old"))
     //println(getAge4("57 years old"))
     //println(getAge5("888 years old"))
-    println(getAge6("99*25"))
+    //println(getAge6("99*25"))
 
 }
 
@@ -14,7 +14,7 @@ fun getAge(yearsOld: String): String =
     yearsOld.substring(0, yearsOld.indexOf("o"))
 
 fun getAge2(yearsOld: String): String =
-    yearsOld.take(7)
+    yearsOld.take(1)
 
 fun getAge3(yearsOld: String): Int =
     yearsOld[0].digitToInt()
