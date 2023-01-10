@@ -1,4 +1,4 @@
-package level_7kyu
+package level_7kyu.array
 /*
 Simple enough this one - you will be given an array. The values in the array will either be numbers or strings,
 or a mix of both. You will not get an empty array, nor a sparse one.

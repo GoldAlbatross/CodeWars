@@ -1,15 +1,13 @@
 package level_7kyu.numbers
 
 import kotlin.math.pow
-
 /*
 найти сумму в н-ной строке треугольника состоящего из odd numbers
  */
-
 fun main() {
-    println(
-        rowSumOddNumbers2(13)
-    )
+    println(rowSumOddNumbers(13))
+    println(rowSumOddNumbers1(13))
+    println(rowSumOddNumbers2(13))
 }
 
 fun rowSumOddNumbers(n: Int): Int {
