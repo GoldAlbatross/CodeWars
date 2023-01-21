@@ -1,4 +1,4 @@
-package level_7kyu
+package level_7kyu.array
 import kotlin.math.*
 /*
 Take a list of ages when each of your great-grandparent died.
