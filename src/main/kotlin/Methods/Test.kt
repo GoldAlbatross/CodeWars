@@ -1,4 +1,4 @@
-package level_7kyu
+package Methods
 
 import kotlin.math.ceil
 
