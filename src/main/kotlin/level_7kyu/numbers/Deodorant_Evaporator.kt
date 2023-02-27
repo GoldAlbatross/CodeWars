@@ -1,6 +1,7 @@
 package level_7kyu.numbers
 
 import kotlin.math.ceil
+import kotlin.math.ln
 
 /*
 Рассчитать количество дней работы испарителя.Всего пены/газа - content. Каждый день испаряется evap_per_day, остаток при котором испарение
@@ -17,13 +18,13 @@ fun main(){
 fun evaporator(content: Double, evap_per_day: Double, threshold: Double): Int {
     val outOfUse = content * threshold / 100
      return generateSequence(content){ if (it >= outOfUse) it - (it * evap_per_day / 100) else null}
-         .count () -1
+         .count() -1
 }
 //----------------------------------------------------------------------------------------------------------------------
 fun evaporator1(content: Double, evap_per_day: Double, threshold: Double): Int {
     val step = evap_per_day / 100
     val residue = threshold / 100
-    return ceil(Math.log(residue) / Math.log(1 - step)).toInt()
+    return ceil(ln(residue) / ln(1 - step)).toInt()
 }
 //----------------------------------------------------------------------------------------------------------------------
 fun evaporator2(content: Double, evap_per_day: Double, threshold: Double): Int =

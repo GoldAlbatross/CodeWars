@@ -11,5 +11,6 @@ fun main() {
 fun getCount(str : String) : Int =
     str.filter { "euioa".contains(it) }.length
 //----------------------------------------------------------------------------------------------------------------------
-fun getCount2(str : String) = str.count { it in "aeiou" }
+fun getCount2(str : String) =
+    str.count { it in "aeiou" }
 //----------------------------------------------------------------------------------------------------------------------
