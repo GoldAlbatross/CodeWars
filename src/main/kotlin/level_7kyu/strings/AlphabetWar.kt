@@ -51,7 +51,7 @@ fun alphabetWar2(fight: String): String {
     return if (left > right) "Left side wins!" else if (right> left) "Right side wins!"
            else "Let's fight again!"
 }
-
+//----------------------------------------------------------------------------------------------------------------------
 const val left = "zdqm"
 const val right = "sbpw"
 
@@ -67,7 +67,7 @@ fun alphabetWar3(fight: String): String {
         else -> "Right side wins!"
     }
 }
-
+//----------------------------------------------------------------------------------------------------------------------
 fun alphabetWar4(fight: String) = fight
         .fold(0) { a, c -> a + when (c) {
             'w' -> 4; 'p' -> 3; 'b' -> 2; 's' -> 1

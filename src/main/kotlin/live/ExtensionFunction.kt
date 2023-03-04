@@ -1,8 +1,8 @@
+package live
 
+fun String.getWords():List<String> =
+    this.split( " ")
 
-fun String.getWords():List<String> {
-    return this.split( " ")
-}
 
 val String.firstWord: String
     get() = this.takeWhile { it != ' ' }

@@ -24,8 +24,7 @@ fun longest2(s1:String, s2:String):String =
     "abcdefghijklmnopqrstuvwxyz".filter { it in s1 || it in s2 }
 
 fun longest3(s1:String, s2:String) =
-    (s1+s2)
-        .toCharArray()
+    (s1+s2).toCharArray()
         .distinct()
         .sorted()
         .joinToString("")
