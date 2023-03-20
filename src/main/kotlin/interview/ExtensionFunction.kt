@@ -1,4 +1,4 @@
-package live
+package interview
 
 fun String.getWords():List<String> =
     this.split( " ")
