@@ -43,8 +43,8 @@ j  java.util.Locale.getFormatLocale()Ljava/util/Locale;+11 java.base@18.0.1
 j  java.util.Locale.getDefault(Ljava/util/Locale$Category;)Ljava/util/Locale;+57 java.base@18.0.1
 j  java.util.Scanner.<init>(Ljava/lang/Readable;Ljava/util/regex/Pattern;)V+240 java.base@18.0.1
 j  java.util.Scanner.<init>(Ljava/io/InputStream;)V+12 java.base@18.0.1
-j  trash.TinkoffContestKt.main()V+7
-j  trash.TinkoffContestKt.main([Ljava/lang/String;)V+0
+j  trash.tinkoff_contest.TinkoffContestKt.main()V+7
+j  trash.tinkoff_contest.TinkoffContestKt.main([Ljava/lang/String;)V+0
 v  ~StubRoutines::call_stub
 
 siginfo: EXCEPTION_ACCESS_VIOLATION (0xc0000005), reading address 0x0000000000000169
