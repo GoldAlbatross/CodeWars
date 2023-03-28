@@ -14,7 +14,7 @@ fun alphaSeq(str: String): String {
 
     for ((count, it) in list.withIndex()) {
         res.add("$it")
-        val n = it.code - 'A'.code
+        val n = it -'A'
         for (i in 0..n) {
             if (i > 0) res[count] = res[count] + it.lowercase()
         }
@@ -26,4 +26,4 @@ fun alphaSeq1(str: String) =
     str.lowercase()
         .toCharArray()
         .sorted()
-        .joinToString(","){ "$it".uppercase() + "$it".repeat(it - 'a')}
+        .joinToString(","){ "$it".uppercase() + "$it".repeat(it -'a') }
