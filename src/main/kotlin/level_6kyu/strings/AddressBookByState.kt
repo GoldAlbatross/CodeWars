@@ -12,7 +12,7 @@ fun main() {
             "Hubert Sims, 328A Brook Road, Roanoke MA\n" +
             "Amy Wilde, 334 Bayshore Pkwy, Mountain View CA\n" +
             "Sal Carpenter, 73 6th Street, Boston MA"
-    println(State.byState(a))
+    //println(State.byState(a))
     println(State2.byState(a))
 
 }
@@ -77,7 +77,7 @@ object State {
 }
 //======================================================================================================================
 object State2 {
-    val mapState = mapOf(
+    private val mapState = mapOf(
         "AZ" to "Arizona",
         "CA" to "California",
         "ID" to "Idaho",
@@ -88,10 +88,10 @@ object State2 {
         "VA" to "Virginia"
     )
     fun byState(str: String): String {
-        val statesGroup = str.split("\n").groupBy(
-            { mapState[it.takeLast(2)] },
-            { it }
-        )
+        val statesGroup = str
+            .split("\n")
+            .groupBy({ mapState[it.takeLast(2)] }, { it })
+
         return statesGroup.map { item ->
             "${item.key}" + item.value.sorted().joinToString(
                 "\n..... ",

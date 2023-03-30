@@ -1,10 +1,14 @@
 package trash
 
-fun main() {
-    var str = "Amy Wilde, 334 Bayshore Pkwy, Mountain View CA"
-    str = str.replace("CA", "tryrr")
+import level_6kyu.strings.State2
 
-    println(str)
+fun main() {
+    val str = "John Daggett, 341 King Road, Plymouth MA"
+
+
+    val x = str.split(",").joinToString("") {it + " xxx"}
+
+    println(x)
 
 
 }
