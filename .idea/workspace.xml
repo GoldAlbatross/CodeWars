@@ -5,156 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b31a227e-94f0-4e48-86d7-656ca4b0c5bf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hs_err_pid9656.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/META-INF/CodeWars.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeWars/META-INF/CodeWars.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/interview/sorts/BubleSortKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeWars/interview/sorts/BubleSortKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_6kyu/arrays/FindTheParityOutlierKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_6kyu/numbers/AplusBequals123Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_6kyu/numbers/DivisibleByPrimesKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_6kyu/strings/AddressBookByStateKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_6kyu/strings/State$byState$$inlined$sortBy$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_6kyu/strings/State.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_6kyu/strings/State2$byState$1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_6kyu/strings/State2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/FixStringCaseKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/HighestAndLowestKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/array/DoubleSort$dbSort$$inlined$sortedBy$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/array/DoubleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/array/DoubleSortKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/array/EvenNumbersInAnArrayKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/array/FindAllPairsKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/array/LondonCityHackerKt$londonCityHacker$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/array/LondonCityHackerKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/array/LookingForABenefactorKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/array/PickUpTheCropKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/array/Plus_Minus_CountKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/array/PredictYourAgeKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/array/RecursionKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/array/SmallEnoughKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/geometry/GeometricProgressionSequenceKt$geometricSequenceElements1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/geometry/GeometricProgressionSequenceKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/geometry/SumOfAnglesKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/linkedlist/IndexOfLastKt$lastIndexOf$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/linkedlist/IndexOfLastKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/linkedlist/LinkedList$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/linkedlist/LinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/linkedlist/LinkedListKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/linkedlist/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/lists/NumberOfPeopleInTheBusKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/numbers/CodewarsLeaderboardClimberKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/numbers/CountTheDigitKt$nbDig1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/numbers/CountTheDigitKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/numbers/Deodorant_EvaporatorKt$evaporator$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/numbers/Deodorant_EvaporatorKt$evaporator2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/numbers/Deodorant_EvaporatorKt$evaporator2$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/numbers/Deodorant_EvaporatorKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/numbers/DryingPotatoesKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/numbers/EasyWallpaperKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/numbers/GoingToTheCinemaKt$movie1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/numbers/GoingToTheCinemaKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/numbers/GrowthOfAPopulationKt$nbYear1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/numbers/GrowthOfAPopulationKt$nbYear1$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/numbers/GrowthOfAPopulationKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/numbers/PreviousMultipleOfThreeKt$prevMultOfThree2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/numbers/PreviousMultipleOfThreeKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/numbers/SumOfOddNumbersKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/numbers/TuringsEquationKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/strings/AlphabetWarKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/strings/AlphabeticalSequenceKt$alphaSeq1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/strings/AlphabeticalSequenceKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/strings/AlternateCapitalizationKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/strings/FireOnTheBoatKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/strings/FizzBuzzCuckooClockKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/strings/HidePasswordFromJdbcUrlKt$hidePasswordFromConnection1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/strings/HidePasswordFromJdbcUrlKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/strings/Move10Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/strings/Shortest_WordKt$findShort2$$inlined$sortedBy$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/strings/Shortest_WordKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/strings/TwoToOneKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_7kyu/strings/Vowel_CountKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_8kyu/GetFirstWordKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_8kyu/IsHeGonnaSurviveKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_8kyu/KeepHydratedKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_8kyu/ReduceButGrowKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_8kyu/RemoveFirstAndLastCharacterKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_8kyu/RemoveStringSpacesKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_8kyu/ReversedSequenceKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_8kyu/SumArraysKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_8kyu/TheFeastofManyBeastsKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_8kyu/arrays/CountOfPositivesAndNegativesKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_8kyu/arrays/InvertValuesKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_8kyu/arrays/MissingNumKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_8kyu/arrays/Square_n_SumKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_8kyu/arrays/SumArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_8kyu/arrays/SumMixedArrayKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_8kyu/arrays/SumOfPositiveKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_8kyu/strings/StringRepeatKt$repeatStr2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/level_8kyu/strings/StringRepeatKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/trash/XxxKt$main$x$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/trash/XxxKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeWars/trash/XxxKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/interview/sorts/BubleSort.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/interview/sorts/BubleSort.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_6kyu/arrays/FindTheParityOutlier.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_6kyu/arrays/FindTheParityOutlier.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_6kyu/numbers/AplusBequals123.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_6kyu/numbers/AplusBequals123.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_6kyu/numbers/DivisibleByPrimes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_6kyu/numbers/DivisibleByPrimes.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_6kyu/strings/AddressBookByState.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_6kyu/strings/AddressBookByState.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_7kyu/array/DoubleSort.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_7kyu/array/DoubleSort.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_7kyu/array/EvenNumbersInAnArray.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_7kyu/array/EvenNumbersInAnArray.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_7kyu/array/FindAllPairs.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_7kyu/array/FindAllPairs.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_7kyu/array/LondonCityHacker.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_7kyu/array/LondonCityHacker.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_7kyu/array/LookingForABenefactor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_7kyu/array/LookingForABenefactor.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_7kyu/array/PickUpTheCrop.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_7kyu/array/PickUpTheCrop.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_7kyu/array/Plus_Minus_Count.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_7kyu/array/Plus_Minus_Count.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_7kyu/array/PredictYourAge.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_7kyu/array/PredictYourAge.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_7kyu/array/Recursion.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_7kyu/array/Recursion.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_7kyu/array/SmallEnough.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_7kyu/array/SmallEnough.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_7kyu/geometry/GeometricProgressionSequence.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_7kyu/geometry/GeometricProgressionSequence.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_7kyu/geometry/SumOfAngles.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_7kyu/geometry/SumOfAngles.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_7kyu/linkedlist/LinkedList.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_7kyu/linkedlist/LinkedList.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_7kyu/linkedlist/indexOfLast.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_7kyu/linkedlist/indexOfLast.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_7kyu/lists/NumberOfPeopleInTheBus.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_7kyu/lists/NumberOfPeopleInTheBus.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_7kyu/numbers/CodewarsLeaderboardClimber.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_7kyu/numbers/CodewarsLeaderboardClimber.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_7kyu/numbers/CountTheDigit.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_7kyu/numbers/CountTheDigit.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_7kyu/numbers/Deodorant_Evaporator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_7kyu/numbers/Deodorant_Evaporator.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_7kyu/numbers/DryingPotatoes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_7kyu/numbers/DryingPotatoes.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_7kyu/numbers/EasyWallpaper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_7kyu/numbers/EasyWallpaper.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_7kyu/numbers/GoingToTheCinema.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_7kyu/numbers/GoingToTheCinema.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_7kyu/numbers/GrowthOfAPopulation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_7kyu/numbers/GrowthOfAPopulation.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_7kyu/numbers/PreviousMultipleOfThree.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_7kyu/numbers/PreviousMultipleOfThree.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_7kyu/numbers/RotateForAMax.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_7kyu/numbers/RotateForAMax.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_7kyu/numbers/SumOfOddNumbers.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_7kyu/numbers/SumOfOddNumbers.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_7kyu/numbers/TuringsEquation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_7kyu/numbers/TuringsEquation.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_7kyu/strings/AlphabetWar.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_7kyu/strings/AlphabetWar.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_7kyu/strings/AlphabeticalSequence.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_7kyu/strings/AlphabeticalSequence.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_7kyu/strings/AlternateCapitalization.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_7kyu/strings/AlternateCapitalization.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_7kyu/strings/FireOnTheBoat.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_7kyu/strings/FireOnTheBoat.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_7kyu/strings/FixStringCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_7kyu/strings/FixStringCase.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_7kyu/strings/FizzBuzzCuckooClock.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_7kyu/strings/FizzBuzzCuckooClock.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_7kyu/strings/HidePasswordFromJdbcUrl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_7kyu/strings/HidePasswordFromJdbcUrl.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_7kyu/strings/HighestAndLowest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_7kyu/strings/HighestAndLowest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_7kyu/strings/Move10.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_7kyu/strings/Move10.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_7kyu/strings/Shortest_Word.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_7kyu/strings/Shortest_Word.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_7kyu/strings/TwoToOne.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_7kyu/strings/TwoToOne.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_7kyu/strings/Vowel_Count.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_7kyu/strings/Vowel_Count.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_8kyu/GetFirstWord.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_8kyu/GetFirstWord.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_8kyu/IsHeGonnaSurvive.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_8kyu/IsHeGonnaSurvive.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_8kyu/KeepHydrated.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_8kyu/KeepHydrated.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_8kyu/ReduceButGrow.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_8kyu/ReduceButGrow.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_8kyu/RemoveFirstAndLastCharacter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_8kyu/RemoveFirstAndLastCharacter.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_8kyu/RemoveStringSpaces.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_8kyu/RemoveStringSpaces.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_8kyu/ReversedSequence.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_8kyu/ReversedSequence.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_8kyu/TheFeastofManyBeasts.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_8kyu/TheFeastofManyBeasts.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_8kyu/arrays/CountOfPositivesAndNegatives.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_8kyu/arrays/CountOfPositivesAndNegatives.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_8kyu/arrays/InvertValues.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_8kyu/arrays/InvertValues.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_8kyu/arrays/MissingNum.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_8kyu/arrays/MissingNum.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_8kyu/arrays/Square(n)Sum.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_8kyu/arrays/Square(n)Sum.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_8kyu/arrays/SumArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_8kyu/arrays/SumArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_8kyu/arrays/SumArrays.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_8kyu/arrays/SumArrays.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_8kyu/arrays/SumMixedArray.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_8kyu/arrays/SumMixedArray.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_8kyu/arrays/SumOfPositive.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_8kyu/arrays/SumOfPositive.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/level_8kyu/strings/StringRepeat.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code_wars/level_8kyu/strings/StringRepeat.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/trash/Xxx.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/trash/Xxx.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/interview/sorts/DubleBubleSort.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/interview/sorts/DubleBubleSort.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,6 +22,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/kotlin/interview/sorts/DubleBubleSort.kt" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="2NgpmAY3VTbkoSgsXE001EtosSN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
