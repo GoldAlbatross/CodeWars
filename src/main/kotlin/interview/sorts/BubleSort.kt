@@ -1,8 +1,9 @@
 package interview.sorts
 
-val arr = mutableListOf(64, 42, 73, 41, 31, 53, 16, 24, 57, 42, 74, 55, 36)
+
 
 fun main() {
+    val arr = mutableListOf(64, 42, 73, 41, 31, 53, 16, 24, 57, 42, 74, 55, 36)
 
     var isSorted = false
     while (!isSorted) {
@@ -16,4 +17,6 @@ fun main() {
             }
         }
     }
+
+    println(arr)
 }
